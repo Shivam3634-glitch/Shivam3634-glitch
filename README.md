@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivam3634-glitch
 - 👀 I’m interested in DevOps and Cloud skills
-- 🌱 I’m currently learning AWS fundamentals
+- 🌱 I’m currently learning AWS architect & devops fundamentals
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: linkedin.com/in/shivam-goyal-07016a129
 
